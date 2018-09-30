@@ -3,4 +3,6 @@
 
 效果图
 
-![image](https://github.com/wangjiand/AutoLayoutView-master/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![image](https://github.com/wangjiand/ShortMSM-master/blob/master/image/20180930161828.png)
+
+
